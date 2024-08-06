@@ -1,8 +1,6 @@
 
 #include<stdio.h>
 int main(void){
-	printf("Hello");//adding comment
-	printf("Adding");//addition
-
+	printf("Hello");
 	return 0;
-	}
+}
